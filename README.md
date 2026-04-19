@@ -2,6 +2,12 @@
 
 Frontend aplikacji do uzgadniania wspolnego terminu spotkania lub wyjazdu.
 
+## Kontekst dla Codex
+
+Instrukcje dla sesji Codex sa w `AGENTS.md`.
+
+Kontrakt komunikacji z backendem jest w `docs/API_CONTRACT.md`.
+
 ## Uruchomienie
 
 Wymagany jest Node.js z `npm`.
